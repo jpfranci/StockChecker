@@ -41,4 +41,4 @@ website_dict = {
     **requests_website_dict
 }
 
-bannable_websites = [Website.AMAZON, Website.AE, Website.BESTBUY, Website.CANADACOMPUTERS, Website.MEMORYEXPRESS]
+bannable_websites = [Website.CANADACOMPUTERS]
